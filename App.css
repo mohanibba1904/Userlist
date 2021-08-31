@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.maincontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+body{
+  background-image: linear-gradient(to right, rgb(22, 183, 247), rgb(247, 243, 8), rgb(9, 9, 252));
+
+}

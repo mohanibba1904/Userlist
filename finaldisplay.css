@@ -1,0 +1,30 @@
+.usercontainer{
+    display: flex;
+    background-color: lightpink;
+    border-radius: 20px;
+    margin: 10px;
+}
+.items{
+    justify-items: center;
+    padding: 10px;
+}
+.image{
+    align-self: center;
+    margin-left: 10px;
+}
+.heading{
+    font-size: 25px;
+    color: indigo;
+}
+.image-container{
+    align-self: center;
+    align-items: center;
+    padding: 20px;
+}
+.image{
+    border-radius: 10px;;
+}
+.headingspan{
+    color: black;
+    text-align: left;
+}
